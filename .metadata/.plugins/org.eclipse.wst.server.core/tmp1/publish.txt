@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Mon Dec 18 20:34:07 IST 2017
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\gaura\\.m2\\repository\\org\\springframework\\spring-web\\5.0.2.RELEASE\\spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\gaura\\.m2\\repository\\org\\springframework\\spring-web\\4.1.6.RELEASE\\spring-web-4.1.6.RELEASE.jar=WEB-INF/lib/spring-web-4.1.6.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\gaura\\.m2\\repository\\org\\springframework\\spring-web\\4.3.5.RELEASE\\spring-web-4.3.5.RELEASE.jar=WEB-INF/lib/spring-web-4.3.5.RELEASE.jar
